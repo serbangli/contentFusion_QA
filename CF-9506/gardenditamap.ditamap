@@ -2,9 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
   <title>Garden Guide</title>
-  <keydef keys="watering" href="../topics/watering.dita"/>
-  <topicref href="../topics/intro.dita"/>
+  <keydef keys="watering" href="./topics/watering.dita"/>
+  <topicref href="./topics/intro.dita"/>
   <topicref keyref="watering"/>
-  <topicref href="../topics/broken.dita"/>
-  <topicref href="../topics/links.dita"/>
+  <topicref href="./topics/broken.dita"/>
+  <topicref href="./topics/links.dita"/>
 </map>

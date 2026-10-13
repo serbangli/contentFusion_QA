@@ -3,7 +3,6 @@
 <topic id="broken">
   <title>Broken references</title>
   <body>
-    <p conref="../../topics/intro.dita#intro/missing-id"/>
-    <p>See <xref keyref="pruning"/>.</p>
+    <p conref="../topics/intro.dita#intro/tip"/>    
   </body>
 </topic>
