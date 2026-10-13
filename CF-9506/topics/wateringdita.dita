@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="watering">
+  <title>Watering the garden</title>
+  <shortdesc>Water the plants regularly.</shortdesc>
+  <taskbody>
+    <steps>
+      <step><cmd>Fill the watering can.</cmd></step>
+      <step><cmd>Water each plant at its base.</cmd></step>
+    </steps>
+  </taskbody>
+</task>

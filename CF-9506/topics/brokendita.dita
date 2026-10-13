@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="broken">
+  <title>Broken references</title>
+  <body>
+    <p conref="../../topics/intro.dita#intro/missing-id"/>
+    <p>See <xref keyref="pruning"/>.</p>
+  </body>
+</topic>
