@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Content Fusion translation index: tracks source->target translation state for incremental runs. -->
+<!-- Commit this file so future runs can detect current, stale, and missing translations. -->
+<translation-index version="1">
+  <entry lang="ro-RO"><source href="../../CF-9506/garden.ditamap" sha="a05eabd0348bdb05a2a236126591b1db0ec8e6db"/><target href="../../ro-RO/CF-9506/garden.ditamap" sha="b580a5477aed759891da06d048dae34294c1bb19"/></entry>
+  <entry lang="ro-RO"><source href="../../CF-9506/topics/broken.dita" sha="40f56c20d7c7a6163420420a39e5f7373fa6a2cf"/><target href="../../ro-RO/CF-9506/topics/broken.dita" sha="e86aae5c6e1ee201e853234ca0f663959b5adbc3"/></entry>
+  <entry lang="ro-RO"><source href="../../CF-9506/topics/intro.dita" sha="c5a1a97922d2deb643088d887c041d3fb8b570aa"/><target href="../../ro-RO/CF-9506/topics/intro.dita" sha="4e4549f608719362c1399691437e5d45296be399"/></entry>
+  <entry lang="ro-RO"><source href="../../CF-9506/topics/links.dita" sha="379b549ca7015726dc3ba375aeed3c909ed0f635"/><target href="../../ro-RO/CF-9506/topics/links.dita" sha="f974d2d3eadc123361015b4c7e5a6ddd53973a03"/></entry>
+  <entry lang="ro-RO"><source href="../../CF-9506/topics/watering.dita" sha="8362879eb31fe811d10319811e445aa6ba0c8e2d"/><target href="../../ro-RO/CF-9506/topics/watering.dita" sha="749af1138f9db69dd38ea805e8f733857fff44b2"/></entry>
+</translation-index>

@@ -3,6 +3,11 @@
     <context id="qjzJvhDIMsmiSBJ" name="CF-9506">
         <input href="../CF-9506/garden.ditamap"/>
     </context>
+    <context id="RkWmXeLpQzHtYnA" name="CF-9506 - RO">
+        <input href="../ro-RO/CF-9506/garden.ditamap"/>
+        <?language ro-RO?>
+        <?translation-source {"contextId":"qjzJvhDIMsmiSBJ"}?>
+    </context>
     <publication id="pdf" transtype="pdf-css-html5"/>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <deliverable id="d-pdf-1791889899561" name="pdf">
@@ -15,6 +20,22 @@
     </deliverable>
     <deliverable id="d-webhelp-1791889942427" name="webhelp">
         <context idref="qjzJvhDIMsmiSBJ"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param href="cf://templates/Developer%20Guide" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
+    <deliverable id="d-pdf_-_RO-hZ4kQd" name="pdf - RO">
+        <context idref="RkWmXeLpQzHtYnA"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf">
+            <param href="cf://templates/Oxygen" name="pdf.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
+    <deliverable id="d-webhelp_-_RO-vN8sWb" name="webhelp - RO">
+        <context idref="RkWmXeLpQzHtYnA"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
             <param href="cf://templates/Developer%20Guide" name="webhelp.publishing.template"/>

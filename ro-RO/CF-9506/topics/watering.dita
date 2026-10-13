@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="watering" xml:lang="ro-RO">
+  <title>Udarea grădinii</title>
+  <shortdesc>Udați plantele în mod regulat.</shortdesc>
+  <taskbody>
+    <steps>
+      <step><cmd>Umpleți stropitoarea.</cmd></step>
+      <step><cmd>Udați fiecare plantă la bază.</cmd></step>
+    </steps>
+  </taskbody>
+</task>

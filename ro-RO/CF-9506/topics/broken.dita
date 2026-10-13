@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="broken" xml:lang="ro-RO">
+  <title>Referințe defecte</title>
+  <body>
+    <p conref="intro.dita#intro/missing-id"/>
+    <p>Consultați <xref keyref="pruning"/>.</p>
+  </body>
+</topic>
